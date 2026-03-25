@@ -1,3 +1,8 @@
-# rohit.github.io
-This repository contains my Personal Website. Hello peeps! I'm interested in Fron end Development, This website is only based on Front End works. I will soon make some changes in the site regarding a login page any help would be appreciated.
+# rohit.github.io# 
+🌐 Personal Portfolio Website
+This repository contains my personal portfolio website.  
+I am a Java Backend Developer with 6+ years of experience building scalable systems.  
+It highlights my backend expertise including Java, Spring Boot, Microservices, and APIs.  
+Planned improvements include authentication and backend-driven features.  
+Suggestions and contributions are welcome.
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
