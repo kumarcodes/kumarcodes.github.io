@@ -1,9 +1,31 @@
-# rohit.github.io 
-# Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
-This repository contains my personal portfolio website.  
-I am a Java Backend Developer with 6+ years of experience building scalable systems.  
-It highlights my backend expertise including Java, Spring Boot, Microservices, and APIs.  
-Planned improvements include authentication and backend-driven features.  
-Suggestions and contributions are welcome.
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+## 📌 Overview
+This repository contains the source code for my **personal portfolio website**, built using **HTML, CSS, and JavaScript**.
+
+The website showcases my:
+- 👨‍💻 Technical skills
+- 📂 Projects
+- 📄 Experience
+- 📬 Contact information
+
+It serves as a central place to present my work and professional profile.
+
+---
+
+## 🚀 Features
+
+- 🎯 Clean and responsive UI  
+- 📱 Mobile-friendly design  
+- 🧑‍💼 Developer profile & about section  
+- 📂 Projects showcase  
+- 📞 Contact section  
+- ⚡ Fast and lightweight  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
